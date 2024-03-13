@@ -1,8 +1,6 @@
 I can't lie, it feels nice that you're calling
-<<<<<<< HEAD
 And for once I don't care about what you want
-=======
 You sound sad and alone, and you're stalling
 I mean, you gotta admit the history's kind of unmatched
 Asian Calvinism, we made it out of that
->>>>>>> 3dd1ed5f4a52553d34abaf427be4c81e0ecfe62e
+
