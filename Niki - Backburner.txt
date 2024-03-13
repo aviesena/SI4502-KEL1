@@ -1,2 +1,6 @@
 I can't lie, it feels nice that you're calling
+<<<<<<< HEAD
 I mean, you gotta admit the history's kind of unmatched
+=======
+Asian Calvinism, we made it out of that
+>>>>>>> 02fb4e997a23ccaa4ddf67e668273c876b56963d
